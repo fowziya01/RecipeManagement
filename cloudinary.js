@@ -40,7 +40,3 @@ import { v2 as cloudinary } from 'cloudinary';
     
     console.log(autoCropUrl);    
 })();
-//cloud name :ddyembipe
-// API Key :372393232723255
-//API secret:SoJvfQ01cYVjpFHiaL-i7KK5P0g
-//APi environment varialbe: CLOUDINARY_URL=cloudinary://372393232723255:SoJvfQ01cYVjpFHiaL-i7KK5P0g@ddyembipe
